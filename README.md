@@ -1,2 +1,2 @@
 # DataStructures & Algorithms
- Learning Essential Data structures & algorithms
+My journey learning Data Structures & Algorithms
